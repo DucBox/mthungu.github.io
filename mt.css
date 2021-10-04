@@ -136,7 +136,7 @@ span{
 
 }
 
-p{
+#i4{
 	display: inline-block  ;
 	color: #fff;
 	padding-bottom: 10px ;
@@ -150,3 +150,22 @@ p{
 	width: 50px ;
 	margin: 10px 5px;
 }
+
+
+h2 p{
+  text-align: center ;
+  font-size: 30px;
+  background: none;
+  color: white;
+}
+
+h2 a {
+	color: white;
+	text-decoration: none;
+}
+
+h2 a:hover{
+	text-decoration: underline ;
+}
+
+
