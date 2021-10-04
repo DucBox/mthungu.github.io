@@ -85,9 +85,11 @@ span{
 	padding: 14px 0;
 	margin-top: 200px;
 	border-radius: 4px ;
-	background: #87CEEB ;
-	color: #333;
+	background: none ;
+	color: white;
 	transition: transform 1s;
+	font-size: 20px;
+	text-align: center;
 }
 
 .card-back{
